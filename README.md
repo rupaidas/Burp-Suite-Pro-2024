@@ -1,9 +1,7 @@
 # Burp Suite Professional Version 2024 #
 
-* Install BurpSuite Pro ✔ (Win/linux/mac)
-* You Can Make .EXE file ✔
-* BurpSuite Full Version ✔
-* Make .bat To .exe ✔
+* Install BurpSuite Pro ✔ (kali-linux)
+
 
 
 ## Okay Follow Me Step By Step For Installation:<br>
