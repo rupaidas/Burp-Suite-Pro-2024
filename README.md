@@ -17,10 +17,3 @@
 4. Then Follow My Videos in youtube
     * Link: [htps://www.youtube.com/teamhaxo](https://www.youtube.com/watch?v=5gXUgTOP0bw)
 
-
-
-## Follow Me 💋:
-[<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/facebook/facebook.svg" alt="Facebook" width="32"/>](https://www.facebook.com/bd8kr3m) &nbsp;
-[<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" alt="Instagram" width="32"/>](https://www.instagram.com/Abm_Mujahid) &nbsp;
-[<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/youtube/youtube.svg" alt="YouTube" width="39"/>](https://www.youtube.com/AbmMujahid) &nbsp;
-[<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" alt="LinkedIn" width="36"/>](https://www.linkedin.com/in/abmmujahid/)
