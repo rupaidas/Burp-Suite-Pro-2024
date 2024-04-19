@@ -4,10 +4,10 @@
 
 
 
-## Okay Follow Me Step By Step For Installation:<br>
+##=> Follow Step By Step For Installation
 
 1.    [Download](https://codeload.github.com/BD8KR3M/Burpsuite_Professional_2024/zip/refs/heads/main) or Clone This GitHub. 
-2.    Download and Install Java and JDK.
+2.    Download and Install Java
 
       * [JAVA](https://download.oracle.com/java/22/latest/jdk-22_linux-x64_bin.deb)
       
