@@ -6,17 +6,16 @@
 
 ##=> Follow Step By Step For Installation
 
-1.    [Download](https://codeload.github.com/BD8KR3M/Burpsuite_Professional_2024/zip/refs/heads/main) or Clone This GitHub. 
+1.    Clone This GitHub. 
 2.    Download and Install Java
 
       * [JAVA](https://download.oracle.com/java/22/latest/jdk-22_linux-x64_bin.deb)
       
-3. Download BurpSuite Pro Form Official WebSite. [Click Here](https://portswigger.net/burp/releases/download?product=pro&version=&type=Jar)
-                                            
+3. Download BurpSuite Pro .jar file Form Official WebSite. [Click Here](https://portswigger.net/burp/releases/download?product=pro&version=&type=Jar)
     Or, Download Burp Suite Pro--> 
     *  https://portswigger.net/burp/releases/download?product=pro&version=&type=Jar
 4. Then Follow My Videos in youtube
-    * Link: htps://www.youtube.com/teamhaxo
+    * Link: [htps://www.youtube.com/teamhaxo](https://www.youtube.com/watch?v=5gXUgTOP0bw)
 
 
 
